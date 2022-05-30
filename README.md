@@ -7,4 +7,5 @@ simsimhada
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmddn3070)](https://github.com/anuraghazra/github-readme-stats)
 
-<codersrank-summary username="tmddn3070"></codersrank-summary>
+
+[![Smoo coders rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tmddn3070)
